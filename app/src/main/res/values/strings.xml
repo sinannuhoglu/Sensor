@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Walk to Stop the Alarm</string>
+
+    <string-array name="music_choices">
+        <item>Lütfen Alarm Sesi Seçin</item>
+        <item>Alarm Sesi 1</item>
+        <item>Alarm Sesi 2</item>
+        <item>Alarm Sesi 3</item>
+        <item>Alarm Sesi 4</item>
+    </string-array>
+
+
+</resources>
