@@ -9,7 +9,7 @@ import androidx.core.app.NotificationCompat;
 
 public class AlertReceiver extends BroadcastReceiver {
     public static int selectedMusic = 0;
-    private static final int[] musicIds = new int[] {R.raw.music1, R.raw.music2,R.raw.music3,R.raw.music4}; // Added this line
+    private static final int[] musicIds = new int[] {R.raw.music1, R.raw.music2,R.raw.music3,R.raw.music4}; 
     private static MediaPlayer mediaPlayer;
     public static boolean isAlarmRinging = false;
 
